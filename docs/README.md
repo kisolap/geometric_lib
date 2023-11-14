@@ -136,3 +136,5 @@ _Вывод:_
 | fdc3686846c4250c2eb1b7fda2ff07188f20c2ad| Mikhail Tyo <mikhail.tyolab@gmail.com>| Rectangle added               |
 | a25fbbadb9379aafe3ae5aaf4e228ee0497531b1| Mikhail Tyo <mikhail.tyolab@gmail.com>| Rectangle bugfix              |
 | 45633aa2db2bcecbaadc1a29173b8411042b0487| Mikhail Tyo <mikhail.tyolab@gmail.com>| docs: add comments to function|
+| 1604478ce45b649d8f8283601c4408e18c7b0206| Mikhail Tyo <mikhail.tyolab@gmail.com>| test: add tests               |
+
