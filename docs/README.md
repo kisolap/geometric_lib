@@ -127,9 +127,30 @@ _Вывод:_
 
 ---
 
+# Успешность автотестов
+
+### **Успешность тестов модуля circle.py** 
+Success tests: 57%
+Unsuccess tests: 43%
+
+### **Успешность тестов модуля rectangle.py** 
+Success tests: 57%
+Unsuccess tests: 43%
+
+### **Успешность тестов модуля triangle.py** 
+Success tests: 57%
+Unsuccess tests: 43%
+
+### **Успешность тестов модуля square.py** 
+Success tests: 57%
+Unsuccess tests: 43%
+  
+
+---
+
 # История изменений проекта 
 
-| **Hash**                                | **Author**                        | **Comments**                  |
+| **Hash**                                | **Author**                            | **Comments**                  |
 | ----------------------------------------|:-------------------------------------:| -----------------------------:|
 | 8ba9aeb3cea847b63a91ac378a2a6db758682460| smartiqa <info@smartiqa.ru>           | L-03: Circle and square added |
 | d078c8d9ee6155f3cb0e577d28d337b791de28e2| smartiqa <info@smartiqa.ru>           | L-03: Docs added              |
@@ -137,4 +158,9 @@ _Вывод:_
 | a25fbbadb9379aafe3ae5aaf4e228ee0497531b1| Mikhail Tyo <mikhail.tyolab@gmail.com>| Rectangle bugfix              |
 | 45633aa2db2bcecbaadc1a29173b8411042b0487| Mikhail Tyo <mikhail.tyolab@gmail.com>| docs: add comments to function|
 | 1604478ce45b649d8f8283601c4408e18c7b0206| Mikhail Tyo <mikhail.tyolab@gmail.com>| test: add tests               |
+| ba5831823c71545ea971860240117e2467b4b66d| Mikhail Tyo <mikhail.tyolab@gmail.com>| docs: change project's log    |
+| 41012f770c499955ae07c433cfb770189c7369be| Mikhail Tyo <mikhail.tyolab@gmail.com>| tests: add new tests          |
+
+
+
 
