@@ -129,22 +129,11 @@ _Вывод:_
 
 # Успешность автотестов
 
-### **Успешность тестов модуля circle.py** 
-Success tests: 57%
-Unsuccess tests: 43%
+**N** - кол-во автотестов (28)
 
-### **Успешность тестов модуля rectangle.py** 
-Success tests: 57%
-Unsuccess tests: 43%
+**X** - кол-во успешных автотестов (16)
 
-### **Успешность тестов модуля triangle.py** 
-Success tests: 57%
-Unsuccess tests: 43%
-
-### **Успешность тестов модуля square.py** 
-Success tests: 57%
-Unsuccess tests: 43%
-  
+**P** - процент успешных автотестов (57%)
 
 ---
 
