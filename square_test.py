@@ -6,7 +6,11 @@ from square import perimeter
 class MyTestCase(unittest.TestCase):
     def test_area_zero(self):
         res = area(0)
-        self.assertEqual(res, 0)
+        self.assertEqual(res, ValueError)
+
+    def test_area_under_zero(self):
+        res = area(-3)
+        self.assertEqual(res, ValueError)
 
     def test_area_small_input(self):
         res = area(3)
@@ -18,7 +22,7 @@ class MyTestCase(unittest.TestCase):
 
     def test_perimeter_zero(self):
         res = perimeter(0)
-        self.assertEqual(res, 0)
+        self.assertEqual(res, ValueError)
 
     def test_perimeter_small_input(self):
         res = perimeter(3)
