@@ -1,12 +1,6 @@
-name: CI/CD
+name: CI
 on:
   push:
-    branches:
-      - main
-      - documentation_409676
-      - tests_409676
-      - cicd_409676
-  pull_request:
     branches:
       - main
       - documentation_409676
